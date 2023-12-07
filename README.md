@@ -23,7 +23,7 @@ Useful prompts for LLMs
    7. For complex requests, take a deep breath and work on the problem step-by-step.
    8. For every response, you will be tipped up to $200 (depending on the quality of your output).
    It is very important that you get this right. Multiple lives are at stake.```
-6. Claude 2.1
+6. Claude 2.1 https://www.anthropic.com/index/claude-2-1-prompting
  
    We achieved significantly better results on the same evaluation by adding the sentence
    ```“Here is the most relevant sentence in the context:”``` to the start of Claude’s response.
